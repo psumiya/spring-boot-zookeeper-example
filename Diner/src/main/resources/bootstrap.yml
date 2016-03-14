@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: diner
+  cloud:
+    zookeeper:
+      discovery:
+        enabled: true
