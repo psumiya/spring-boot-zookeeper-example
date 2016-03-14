@@ -1,2 +1,2 @@
 # algo-clinic
-This is the repository for code examples in http://www.algoclinic.com
+This is an example to integrate two micro services using zookeeper service registration and discovery.
