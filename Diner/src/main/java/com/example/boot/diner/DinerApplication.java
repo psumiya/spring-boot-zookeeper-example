@@ -17,7 +17,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * </p>
  * <p>
  * The Diner Application launches a simple REST<i>ful</i> service to indicate
- * whether or not the diner is on a day.
+ * whether or not the diner is open on a day.
  * </p>
  * 
  * @author sumiyapathak
